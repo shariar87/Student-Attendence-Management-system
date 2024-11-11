@@ -1,0 +1,55 @@
+attendance_id,student_name,student_id,date,status
+1,John Doe,1,Select Date for Attendance,Present
+2,Jane Smith,2,Select Date for Attendance,Present
+3,hiugh,9898,Select Date for Attendance,Absent
+4,jerry,123456,Select Date for Attendance,Absent
+5,yuji,788,Select Date for Attendance,Absent
+6,khann,787,Select Date for Attendance,Absent
+7,krishna,1230,Select Date for Attendance,Present
+8,lui,4321,Select Date for Attendance,Absent
+9,hiugh,9898,Select Date for Attendance,Absent
+10,jerry,123456,Select Date for Attendance,Absent
+11,yuji,788,Select Date for Attendance,Absent
+12,khann,787,Select Date for Attendance,Absent
+13,krishna,1230,Select Date for Attendance,Absent
+14,lui,4321,Select Date for Attendance,Absent
+15,jui,5555,Select Date for Attendance,Present
+16,hiugh,9898,11/11/24,Absent
+17,jerry,123456,11/11/24,Absent
+18,yuji,788,11/11/24,Absent
+19,khann,787,11/11/24,Absent
+20,krishna,1230,11/11/24,Absent
+21,lui,4321,11/11/24,Absent
+22,jui,5555,11/11/24,Present
+23,hiugh,9898,11/11/24,Absent
+24,jerry,123456,11/11/24,Absent
+25,yuji,788,11/11/24,Absent
+26,khann,787,11/11/24,Absent
+27,krishna,1230,11/11/24,Absent
+28,lui,4321,11/11/24,Absent
+29,jui,5555,11/11/24,Absent
+30,gui,765,11/11/24,Present
+31,hiugh,9898,Select Date for Attendance,Absent
+32,jerry,123456,Select Date for Attendance,Absent
+33,yuji,788,Select Date for Attendance,Absent
+34,khann,787,Select Date for Attendance,Absent
+35,krishna,1230,Select Date for Attendance,Absent
+36,lui,4321,Select Date for Attendance,Absent
+37,jui,5555,Select Date for Attendance,Absent
+38,gui,765,Select Date for Attendance,Absent
+39,karim,12300,Select Date for Attendance,Present
+40,hiugh,9898,11/11/24,Absent
+41,jerry,123456,11/11/24,Absent
+42,yuji,788,11/11/24,Absent
+43,khann,787,11/11/24,Absent
+44,krishna,1230,11/11/24,Absent
+45,lui,4321,11/11/24,Absent
+46,jui,5555,11/11/24,Absent
+47,gui,765,11/11/24,Absent
+48,karim,12300,11/11/24,Absent
+49,khan,1234,11/11/24,Absent
+50,khan90,90,11/11/24,Absent
+51,rakib,89,11/11/24,Absent
+52,rais,23,11/11/24,Absent
+53,rakib,1203339,11/11/24,Absent
+54,rakib900,900,11/11/24,Present
