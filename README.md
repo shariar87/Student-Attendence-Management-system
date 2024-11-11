@@ -3,34 +3,12 @@ Student Attendance Management System (Report)
 
 Python3 
 
-11/11/2024 
+
 
 Krishna Paul (12033028) 
 
 Shariar Khan (12033913) 
 
-Table of Contents 
-
-Overview 
-System Design and Planning 
-Conceptual Design 
-Data Model 
-Core Functionality 
-Student Registration Mechanism 
-Attendance Recording System 
-Data Storage and Retrieval 
-User Interface (UI) Development 
-Security and Privacy 
-Data Privacy Measures 
-Role-Based Access Control 
-Documentation and Testing 
-Documentation 
-Unit Testing 
-Code Style 
-Requirement 
-Contributions 
-Developers 
- 
 
 Overview 
 
