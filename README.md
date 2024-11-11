@@ -14,6 +14,7 @@ Overview
 
 The Student Attendance Management System is designed to handle the registration of students and the recording of their attendance in a classroom setting. This application is developed using Python, with Tkinter for the graphical user interface (GUI) and Pandas for data management. ​The primary objective of the​ system ​is to provide​ instructors ​with an easy-to-use​ tool for tracking attendance while ensuring the protection of student data through secure access control and role-based authentication. 
 
+
 The system’s functionality includes: 
 
 Student registration 
@@ -24,6 +25,7 @@ The system is built with maintainability in mind, following best practices in pr
 
  
 
+
 System Design and Planning (15%) 
 
 Conceptual Design 
@@ -33,6 +35,8 @@ The system supports two types of users:
 Students: Can register themselves in the system using their name. 
 Instructors: Can log in using a password, mark attendance for students, and view attendance reports. 
 The system is designed to be simple yet effective, allowing instructors to easily manage student attendance. The attendance data is securely stored and can be accessed or modified by authorized users only. 
+
+
 
 Data Model 
 
